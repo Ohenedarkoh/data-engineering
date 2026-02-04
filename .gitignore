@@ -1,0 +1,6 @@
+pipeline.py
+ny_taxi_postgres_data/
+data.parquet
+output.parquet
+Assignment1-answers.md
+data.csv
